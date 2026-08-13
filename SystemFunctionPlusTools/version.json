@@ -1,8 +1,12 @@
 {
   "latest_name": "Beta",
-  "latest": "0.1"
+  "latest": "0.2"
   "versions": [
    {
+      "version_name": "Beta",
+      "version": "0.2"
+    },
+    {
       "version_name": "Beta",
       "version": "0.1"
     }
