@@ -1,8 +1,12 @@
 {
   "latest_name": "Beta",
-  "latest": "0.4",
+  "latest": "0.5",
   "lib": "libs.json",
   "versions": [
+   {
+      "version_name": "Beta",
+      "version": "0.5"
+    },
    {
       "version_name": "Beta",
       "version": "0.4"
